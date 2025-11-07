@@ -1,0 +1,57 @@
+[
+
+  {
+    "project_id": 1,
+    "title": "Skapa en ny stadsdel som är helt emissionsfri",
+    "url": "https://byggrutin.se/skapa-en-ny-stadsdel-som-ar-helt-emissionsfri/",
+    "source": "Byggrutin",
+    "date": "2024-04-27",
+    "summary": "I kvarteret Persikan på Södermalm driver staden tillsammans med byggaktörer projektet att skapa en ny stadsdel som helt ska byggas utan fossila utsläpp – från arbetsmaskiner till verktyg. Projektet omfattar sju nya kvarter och cirka 1 240 lägenheter."
+  },
+
+  {
+    "project_id": 1,
+    "title": "Hållbart byggande – Persikan på Södermalm blir stadens eldrivna förebild",
+    "url": "https://www.byggnyheter.se/20240216/30102/hallbart-byggande-persikan-pa-sodermalm-blir-stadens-eldrivna-forebild",
+    "source": "Byggnyheter",
+    "date": "2024-02-16",
+    "summary": "I kvarteret Persikan på Södermalm genomförs stadsbyggnad med fokus på att minimera utsläpp. Samtliga maskiner och verktyg blir eldrivna. Projektet ses som förebild för hållbart byggande i Stockholm."
+  },
+
+  {
+    "project_id": 1,
+    "title": "Besqab ska bygga sista etappen på Södermalmsprojektet",
+    "url": "https://fastighetssverige.se/artikel/besqab-ska-bygga-sista-etappen-pa-sodermalmsprojektet-52647/",
+    "source": "Fastighetssverige",
+    "date": "2025-02-21",
+    "summary": "Besqab har tecknat totalentreprenadavtal för uppförandet av ett nytt flerbostadshus med 93 lägenheter i etappen 'Tegelwik', som är sista etappen inom området Persikan på Södermalm. Första inflyttning beräknas till 2027."
+  },
+
+  {
+    "project_id": 1,
+    "title": "Ännu ett bakslag för Persikan på Söder",
+    "url": "https://www.fastighetsvarlden.se/notiser/ytterligare-bakslag-for-persikan-pa-soder/",
+    "source": "Fastighetsvärlden",
+    "date": "2023-03-06",
+    "summary": "Bygget i kvarteret Persikan har stött på problem: kontraktet med entreprenör för ett bostadshus har hävts innan byggstart för att bankgaranti saknats. Projektgruppen räknar med förseningar."
+  },
+
+  {
+    "project_id": 14,
+    "title": "Nya bostäder vid Spångaviadukten – information från SPF Seniorerna",
+    "url": "https://www.spfseniorerna.se/distrikt/stockholmsdistriktet/foreningslista/spf-seniorerna-spangaveteranerna/nyheter/2024/februari/byggen/",
+    "source": "SPF Seniorerna",
+    "date": "2024-02",  
+    "summary": "En kort nyhetsnotis påpekar att markarbeten i området ’i den s.k. “gropen” vid Spångaviadukten’ beräknas pågå till vårvintern 2024. :contentReference[oaicite:3]{index=3}"
+  },
+
+  {
+    "project_id": 14,
+    "title": "Därför är stora gropen i Spånga fortsatt kvar",
+    "url": "https://www.mitti.se/nyheter/darfor-ar-stora-gropen-i-spanga-fortsatt-kvar-6.27.2874.071a5eafa1",
+    "source": "Mitt i",
+    "date": "2018-09-12",  
+    "summary": "Artikeln beskriver varför markarbetena runt Spångaviadukten drar ut på tiden – planering, flera förvaltningar inblandade och eventuella överklaganden gör att projektet tar längre tid än väntat. Projektet omfattar ca 135 lägenheter som bostadsrätter vid Spångaviadukten. :contentReference[oaicite:4]{index=4}"
+  }
+
+]

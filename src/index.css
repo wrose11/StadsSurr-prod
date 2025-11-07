@@ -1,0 +1,130 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Definition of the design system. All colors, gradients, fonts, etc should be defined here. 
+All colors MUST be HSL.
+*/
+
+@layer base {
+  :root {
+    /* Civic tech color palette - inspired by StadsSurr logo */
+    --background: 0 0% 98%;
+    --foreground: 195 80% 20%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 195 80% 20%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 195 80% 20%;
+
+    /* Primary: Deep teal from logo */
+    --primary: 195 75% 28%;
+    --primary-foreground: 0 0% 100%;
+    --primary-glow: 188 65% 50%;
+
+    /* Secondary: Light cyan accent */
+    --secondary: 188 50% 92%;
+    --secondary-foreground: 195 75% 28%;
+
+    --muted: 195 20% 92%;
+    --muted-foreground: 195 20% 45%;
+
+    /* Accent: Bright civic blue */
+    --accent: 195 85% 45%;
+    --accent-foreground: 0 0% 100%;
+
+    --destructive: 0 84% 55%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 195 20% 88%;
+    --input: 195 20% 90%;
+    --ring: 195 75% 28%;
+
+    --radius: 0.75rem;
+
+    /* Success colors for voting/engagement */
+    --success: 142 76% 36%;
+    --success-foreground: 0 0% 100%;
+
+    /* Custom semantic tokens */
+    --civic-highlight: 188 65% 50%;
+    --civic-subtle: 188 30% 96%;
+  }
+
+  .dark {
+    --background: 195 60% 8%;
+    --foreground: 188 40% 95%;
+
+    --card: 195 50% 12%;
+    --card-foreground: 188 40% 95%;
+
+    --popover: 195 50% 12%;
+    --popover-foreground: 188 40% 95%;
+
+    --primary: 188 65% 50%;
+    --primary-foreground: 195 80% 10%;
+    --primary-glow: 188 70% 60%;
+
+    --secondary: 195 40% 18%;
+    --secondary-foreground: 188 40% 95%;
+
+    --muted: 195 40% 18%;
+    --muted-foreground: 195 20% 65%;
+
+    --accent: 188 70% 45%;
+    --accent-foreground: 0 0% 100%;
+
+    --destructive: 0 72% 50%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 195 40% 20%;
+    --input: 195 40% 20%;
+    --ring: 188 65% 50%;
+
+    --success: 142 70% 45%;
+    --success-foreground: 0 0% 100%;
+
+    --civic-highlight: 188 70% 60%;
+    --civic-subtle: 195 40% 15%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground font-sans antialiased;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-semibold tracking-tight;
+  }
+}
+
+@layer utilities {
+  .civic-gradient {
+    background: linear-gradient(135deg, hsl(var(--primary)), hsl(var(--civic-highlight)));
+  }
+  
+  .civic-gradient-subtle {
+    background: linear-gradient(180deg, hsl(var(--civic-subtle)), transparent);
+  }
+
+  .animate-fade-in {
+    animation: fadeIn 0.5s ease-in;
+  }
+
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(10px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+}

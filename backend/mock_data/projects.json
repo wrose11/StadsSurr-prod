@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Hagastaden - Nya bostäder och kontor",
+    "description": "Utveckling av 500 nya bostäder och kontorsytor i Hagastaden med fokus på hållbarhet och grönområden.",
+    "full_description": "Detta projekt omfattar byggandet av ett helt nytt kvarter i Hagastaden med 500 moderna bostäder, kontorsytor för upp till 1000 arbetsplatser, samt parker och mötesplatser. Projektet fokuserar på hållbarhet med solpaneler, gröna tak och smarta energilösningar. Målet är att skapa en levande stadsdel där människor kan bo, arbeta och mötas.",
+    "location": "Hagastaden, Solna",
+    "phase": "Samråd",
+    "decision_process": [
+      { "step": "Samråd", "period": "2024-11 – 2025-01" },
+      { "step": "Granskning", "period": "2025-02 – 2025-04" },
+      { "step": "Antagande", "period": "2025-05" },
+      { "step": "Byggstart", "period": "2025-Q2" }
+    ],
+    "start_date": "2025-Q2",
+    "estimated_completion": "2028-Q4",
+    "budget": "2,3 miljarder kr",
+    "latitude": 59.3515,
+    "longitude": 18.0365,
+    "images": [
+      "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80",
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80"
+    ],
+    "upvotes":173,
+    "downvotes":27
+  },
+  {
+    "title": "Tunnelbana till Älvsjö - utbyggnad",
+    "description": "Förlängning av tunnelbanelinje 19 för att förbättra kollektivtrafiken söderut.",
+    "full_description": "En omfattande utbyggnad av tunnelbanenätet som kommer att förlänga linje 19 söderut till Älvsjö. Projektet inkluderar tre nya stationer och förbättrad infrastruktur för att hantera ökad kapacitet. Detta kommer att avsevärt förbättra pendlingsmöjligheterna för invånare i södra Stockholm.",
+    "location": "Södermalm - Älvsjö",
+    "phase": "Granskning",
+    "decision_process": [
+      { "step": "Samråd", "period": "2024-11 – 2025-01" },
+      { "step": "Granskning", "period": "2025-02 – 2025-04" },
+      { "step": "Antagande", "period": "2025-05" },
+      { "step": "Byggstart", "period": "2025-Q2" }
+    ],
+    "start_date": "2026-Q1",
+    "estimated_completion": "2030-Q2",
+    "budget": "4,5 miljarder kr",
+    "latitude": 59.3098,
+    "longitude": 18.0156,
+    "images": [
+      "https://images.unsplash.com/photo-1520209759809-a9bcb6cb3241?w=800&q=80"
+    ],
+    "upvotes":173,
+    "downvotes":100
+  },
+  {
+    "title": "Slussen - slutfas och invigning",
+    "description": "Avslutande arbeten på Slussens ombyggnad med nya torg och gång-/cykelvägar.",
+    "full_description": "Slutfasen av Slussens ombyggnad inkluderar färdigställande av nya torg, förbättrade gång- och cykelvägar samt grönområden. Det nya Slussen kommer att vara en modern knutpunkt som binder samman Gamla stan och Södermalm på ett säkrare och vackrare sätt.",
+    "location": "Slussen",
+    "phase": "Byggstart",
+    "decision_process": [
+      { "step": "Samråd", "period": "2024-11 – 2025-01" },
+      { "step": "Granskning", "period": "2025-02 – 2025-04" },
+      { "step": "Antagande", "period": "2025-05" },
+      { "step": "Byggstart", "period": "2025-Q2" }
+    ],
+    "start_date": "2024-Q4",
+    "estimated_completion": "2025-Q3",
+    "budget": "1,2 miljarder kr",
+    "latitude": 59.3200,
+    "longitude": 18.0717,
+    "images": [
+      "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?w=800&q=80",
+      "https://images.unsplash.com/photo-1518780664697-55e3ad937233?w=800&q=80"
+    ],
+    "upvotes":382,
+    "downvotes":1420
+  },
+  {
+    "title": "Norra Djurgårdsstaden - fas 3",
+    "description": "Fortsatt utveckling av hållbar stadsbebyggelse med klimatsmarta lösningar.",
+    "full_description": "Fas 3 av Norra Djurgårdsstaden fortsätter visionen om en klimatsmart stadsdel. Projektet inkluderar 800 nya bostäder med fokus på energieffektivitet, solceller, gröna tak och smarta avfallssystem. Målet är att skapa ett fossilfritt område med hög livskvalitet.",
+    "location": "Norra Djurgården",
+    "phase": "Planförslag",
+    "decision_process": [
+      { "step": "Samråd", "period": "2024-11 – 2025-01" },
+      { "step": "Granskning", "period": "2025-02 – 2025-04" },
+      { "step": "Antagande", "period": "2025-05" },
+      { "step": "Byggstart", "period": "2025-Q2" }
+    ],
+    "start_date": "2025-Q3",
+    "estimated_completion": "2028-Q4",
+    "budget": "3,1 miljarder kr",
+    "latitude": 59.3469,
+    "longitude": 18.0965,
+    "images": [
+      "https://images.unsplash.com/photo-1449844908441-8829872d2607?w=800&q=80"
+    ],
+    "upvotes":77,
+    "downvotes":25
+  },
+
+  {
+    "title": "KTH - Nytt campus",
+    "description": "Byggnation av ett nytt, modernt campus för Kungliga Tekniska Högskolan.",
+    "full_description": "Detta projekt innebär byggandet av ett nytt campus för KTH med fokus på hållbarhet och innovation. Campuset kommer att inkludera laboratorier, föreläsningssalar, studentbostäder och gröna områden för att främja en kreativ och inspirerande miljö för studenter och personal.",
+    "location": "Valhallavägen, Stockholm",
+    "phase": "Antagande",
+    "decision_process": [
+      { "step": "Samråd", "period": "2024-11 – 2025-01" },
+      { "step": "Granskning", "period": "2025-02 – 2025-04" },
+      { "step": "Antagande", "period": "2025-05" },
+      { "step": "Byggstart", "period": "2025-Q2" }
+    ],
+    "start_date": "2026-Q4",
+    "estimated_completion": "2028-Q4",
+    "budget": "10,5 miljarder kr",
+    "latitude": 59.3498,
+    "longitude": 18.0706,
+    "images": [
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=800&q=80",
+      "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?w=800&q=80"
+    ],
+    "upvotes":193,
+    "downvotes":7
+  }
+
+]

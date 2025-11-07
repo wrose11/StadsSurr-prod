@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "project_title": "Hagastaden - Nya bostäder och kontor",
+    "user_email": "anna.lindgren@example.com",
+    "content": "Ser fram emot detta projekt! Hoppas det blir mycket grönska runtomkring.",
+    "created_at": "2025-10-10T10:00:00",
+    "likes": 3
+  },
+  {
+    "id": 2,
+    "project_title": "Hagastaden - Nya bostäder och kontor",
+    "user_email": "erik.johansson@example.com",
+    "content": "Bra satsning, men hoppas trafiksituationen förbättras också.",
+    "created_at": "2025-10-11T09:15:00",
+    "likes": 1
+  },
+  {
+    "id": 3,
+    "project_title": "Tunnelbana till Älvsjö - utbyggnad",
+    "user_email": "sara.nilsson@example.com",
+    "content": "Det här kommer att göra stor skillnad för oss som bor söderut!",
+    "created_at": "2025-10-12T08:45:00",
+    "likes": 5
+  },
+  {
+    "id": 4,
+    "project_title": "Norra Djurgårdsstaden - fas 3",
+    "user_email": "oskar.berg@example.com",
+    "content": "Fint initiativ med gröna tak och solceller!",
+    "created_at": "2025-10-13T14:20:00",
+    "likes": 2
+  },
+  {
+    "id": 5,
+    "project_title": "Slussen - slutfas och invigning",
+    "user_email": "anna.lindgren@example.com",
+    "content": "Ska bli skönt när det äntligen blir klart!",
+    "created_at": "2025-10-14T12:30:00",
+    "likes": 30
+  }
+]

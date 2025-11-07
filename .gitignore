@@ -1,0 +1,56 @@
+# === FRONTEND / NODE ===
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# === BACKEND / PYTHON ===
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+*.pyc
+
+# SQLite database (lokal data – ska ej pushas)
+app.db
+*.sqlite3
+*.db
+
+# Virtual environments
+.env
+.venv
+venv/
+env/
+ENV/
+
+# FastAPI cache & tooling
+*.egg-info/
+.mypy_cache/
+.pytest_cache/
+coverage/
+htmlcov/
+
+# === OS / EDITOR ===
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# === BUILD / DEPLOY ===
+build/
+*.bak
+

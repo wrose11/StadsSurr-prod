@@ -1,0 +1,162 @@
+[
+  {
+    "title": "Har någon sett den nya cykelbanan vid Hornsgatan?",
+    "content": "Jag cyklade förbi igår och den nya cykelbanan ser fantastisk ut! Äntligen kan man cykla säkert längs hela sträckan. Någon mer som har testat?",
+    "user_email": "erik.johansson@example.com",
+    "created_at": "2025-01-15T10:30:00",
+    "image_url": "https://images.unsplash.com/photo-1485965120184-e220f721d03e?w=800&q=80",
+    "coordinates": {
+      "latitude": 59.3178,
+      "longitude": 18.0582
+    }
+  },
+  {
+    "title": "Slussen-ombyggnaden - vad tycker ni?",
+    "content": "Nu när Slussen börjar ta form, vad är er åsikt? Jag tycker det ser modernare ut men saknar lite av den gamla charmen. Diskutera!",
+    "user_email": "erik.johansson@example.com",
+    "created_at": "2025-01-10T14:20:00",
+    "image_url": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800&q=80",
+    "coordinates": {
+      "latitude": 59.3208,
+      "longitude": 18.0717
+    }
+  },
+  {
+    "title": "Bästa lekplatsen i Södermalm?",
+    "content": "Letar efter en bra lekplats för mina barn i Södermalm. Några tips? Gärna med parkering i närheten!",
+    "user_email": "sara.nilsson@example.com",
+    "created_at": "2025-01-18T09:15:00",
+    "image_url": "https://images.unsplash.com/photo-1587454436945-3a3c4ec55c96?w=800&q=80"
+  },
+  {
+    "title": "Varför så få soptunnor vid T-centralen? 🗑️",
+    "content": "Allvarligt talat, det är omöjligt att hitta en soptunna vid T-centralen. Står folk och håller i sitt skräp hela vägen hem eller..? Stockholm behöver fler soptunnor på strategiska platser!",
+    "user_email": "anna.lindgren@example.com",
+    "created_at": "2025-01-17T16:45:00",
+    "coordinates": {
+      "latitude": 59.3313,
+      "longitude": 18.0591
+    }
+  },
+  {
+    "title": "Grönområden i Kista - vad händer?",
+    "content": "Jag har hört att det ska byggas mer bostäder i Kista, men vad händer med grönområdena? Vi behöver fler parker, inte färre!",
+    "user_email": "jonas.persson@example.com",
+    "created_at": "2025-01-14T11:00:00",
+    "image_url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80",
+    "coordinates": {
+      "latitude": 59.4031,
+      "longitude": 17.9431
+    }
+  },
+  {
+    "title": "Stockholms bästa uteservering?",
+    "content": "Sommaren närmar sig (äntligen!) och jag letar efter nya ställen med bra uteservering. Vad är era favoriter? Gärna något i Vasastan eller Östermalm.",
+    "user_email": "emma.olsson@example.com",
+    "created_at": "2025-01-16T13:30:00",
+    "image_url": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800&q=80"
+  },
+  {
+    "title": "Kollektivtrafiken är för dyr! 🚇💸",
+    "content": "Är jag ensam om att tycka att SL-kortet är hutlöst dyrt? För de pengar man betalar varje månad skulle man nästan kunna leasa en bil. Vad tycker ni?",
+    "user_email": "emma.olsson@example.com",
+    "created_at": "2025-01-12T08:45:00",
+    "coordinates": {
+      "latitude": 59.3345,
+      "longitude": 18.0632
+    }
+  },
+  {
+    "title": "Hittade en mysig café i Gamla Stan! ☕",
+    "content": "Om ni inte har varit på Café Järntorget ännu - gå dit! Bästa kanelbullarna jag ätit på länge och personalen är superhjälpsam. Liten insidertips från mig!",
+    "user_email": "lars.bergstrom@example.com",
+    "created_at": "2025-01-19T15:00:00",
+    "image_url": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=800&q=80",
+    "coordinates": {
+      "latitude": 59.3246,
+      "longitude": 18.0711
+    }
+  },
+  {
+    "title": "Cykelparkering vid pendeltågsstationen - fullbokat!",
+    "content": "Varje morgon är alla cykelställ vid Sundbybergs station fulla. Finns det planer på att utöka? Det är omöjligt att hitta plats efter kl 07:30.",
+    "user_email": "sofie.berglund@example.com",
+    "created_at": "2025-01-13T07:50:00",
+    "coordinates": {
+      "latitude": 59.3610,
+      "longitude": 17.9708
+    }
+  },
+  {
+    "title": "Någon som är på Street Festival i Kungsträdgården? 🎪",
+    "content": "Är där nu med familjen, helt underbart väder och massor av aktiviteter! Rekommenderar verkligen att åka hit om ni inte redan är här.",
+    "user_email": "sara.nilsson@example.com",
+    "created_at": "2025-01-20T12:00:00",
+    "image_url": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=800&q=80",
+    "coordinates": {
+      "latitude": 59.3315,
+      "longitude": 18.0737
+    }
+  },
+  {
+    "title": "Djurgården på vintern är magiskt! ❄️",
+    "content": "Tog en promenad på Djurgården idag och det var så fridfullt och vackert med all snö. Nästan inga människor och perfekt för en lugn dag. Kan verkligen rekommendera!",
+    "user_email": "anna.lindgren@example.com",
+    "created_at": "2025-01-11T10:20:00",
+    "image_url": "https://images.unsplash.com/photo-1483664852095-d6cc6870702d?w=800&q=80",
+    "coordinates": {
+      "latitude": 59.3260,
+      "longitude": 18.1193
+    }
+  },
+  {
+    "title": "Varför byggs det inga gångbroar längre?",
+    "content": "Stockholm växer snabbt men varför byggs det inte fler gångbroar över stora vägar? Det skulle göra det så mycket lättare och säkrare att ta sig fram, speciellt för barn och äldre.",
+    "user_email": "jonas.persson@example.com",
+    "created_at": "2025-01-09T16:00:00"
+  },
+  {
+    "title": "Ska vi verkligen ha fyrverkerier på nyårsafton?",
+    "content": "Jag älskar fyrverkerier lika mycket som alla andra, men tänk på alla husdjur och vilda djur som blir stressade. Kanske dags för en gemensam lasershow istället? Miljövänligare också!",
+    "user_email": "lars.bergstrom@example.com",
+    "created_at": "2025-01-08T19:30:00"
+  },
+  {
+    "title": "Nya bostäder vid Årstaberg - fantastiskt läge! 🏡",
+    "content": "Har någon sett de nya bostäderna som ska byggas vid Årstaberg? Läget ser ju helt perfekt ut med nära till både tunnelbana och vattnet. Hoppas de inte blir för dyra...",
+    "user_email": "sofie.berglund@example.com",
+    "created_at": "2025-01-07T11:15:00",
+    "image_url": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80",
+    "coordinates": {
+      "latitude": 59.3018,
+      "longitude": 18.0444
+    }
+  },
+  {
+    "title": "Konstinstallationen vid Sergels torg - kärlek eller hat?",
+    "content": "Den nya konstinstallationen vid Sergels torg delar verkligen opinionen! Personligen tycker jag den är spännande och ger torget nytt liv. Vad säger ni?",
+    "user_email": "erik.johansson@example.com",
+    "created_at": "2025-01-06T14:45:00",
+    "image_url": "https://images.unsplash.com/photo-1536924940846-227afb31e2a5?w=800&q=80",
+    "coordinates": {
+      "latitude": 59.3326,
+      "longitude": 18.0649
+    }
+  },
+  {
+    "title": "Buller från bygget vid Odenplan 😩",
+    "content": "Bor nära Odenplan och byggbullret börjar kl 07:00 varje morgon. Förstår att staden måste växa men kan man inte börja lite senare? RIP mina sovmorgnar...",
+    "user_email": "emma.olsson@example.com",
+    "created_at": "2025-01-05T07:30:00",
+    "coordinates": {
+      "latitude": 59.3427,
+      "longitude": 18.0498
+    }
+  },
+  {
+    "title": "Tack Stockholm för alla juldekorationer! 🎄✨",
+    "content": "Även om julen är över vill jag bara säga tack till alla som jobbade med julbelysningen i år. Staden såg magisk ut! Hoppas det blir lika fint nästa år.",
+    "user_email": "sara.nilsson@example.com",
+    "created_at": "2025-01-04T18:00:00"
+  }
+]
